@@ -15,19 +15,17 @@
 
 ## 界面预览
 
-你可以将截图放到 `docs/screenshots/` 目录，并按下面的文件名替换占位图。
-
 ### 语音导出
 
-![语音导出界面](docs/screenshots/tts-export.png)
+
 
 ### 片段生成
 
-![片段生成界面](docs/screenshots/snippet-generator.png)
+
 
 ### 图片制书
 
-![图片制书界面](docs/screenshots/image-epub.png)
+
 
 ## 界面顺序
 
