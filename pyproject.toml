@@ -1,0 +1,18 @@
+[project]
+name = "epub-toolbox"
+version = "1.0.0"
+description = "Epub工具箱：EPUB 语音导出、片段生成与图片制书工具"
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "edge-tts>=7.0.0",
+    "tkinterdnd2>=0.4.3",
+]
+
+[project.optional-dependencies]
+build = [
+    "pyinstaller>=6.0",
+]
+
+[tool.uv]
+package = false
