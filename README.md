@@ -17,25 +17,21 @@
 
 ### 语音导出
 
-
+<p align="center">
+  <img src="docs/screenshots/tts-export.png" alt="语音导出界面" width="60%">
+</p>
 
 ### 片段生成
 
-
+<p align="center">
+  <img src="docs/screenshots/snippet-generator.png" alt="片段生成界面" width="60%">
+</p>
 
 ### 图片制书
 
-
-
-## 界面顺序
-
-顶部菜单栏从左到右为：
-
-1. 语音导出
-2. 片段生成
-3. 图片制书
-
-启动后默认进入 `语音导出` 页面。窗口标题固定显示为 `Epub工具箱 V1.0`，切换界面时不会追加后缀。
+<p align="center">
+  <img src="docs/screenshots/image-epub.png" alt="图片制书界面" width="60%">
+</p>
 
 ## 使用场景
 
